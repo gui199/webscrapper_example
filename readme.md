@@ -32,9 +32,9 @@ Para os outros Projetos
 ```bash
 python3 scrapys/selenium1.py
 #ou
-python3 scrapys/selenium1.py
+python3 scrapys/requests_html1.py
 #ou
-python3 scrapys/selenium1.py
+python3 scrapys/mechanicalsoup1.py
 ```  
 Instale as dependências antes.
 
@@ -49,8 +49,8 @@ For the other Projects
 ```bash
 python3 scrapys/selenium1.py
 #or
-python3 scrapys/selenium1.py
+python3 scrapys/requests_html1.py
 #or
-python3 scrapys/selenium1.py
+python3 scrapys/mechanicalsoup1.py
 ```  
 Install the dependencies first. 

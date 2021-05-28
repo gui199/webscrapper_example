@@ -54,3 +54,7 @@ python3 scrapys/requests_html1.py
 python3 scrapys/mechanicalsoup1.py
 ```  
 Install the dependencies first. 
+
+----------------
+### link idéia original
+[Automação Selenium Python + Excel + E-mail | Avaliei 2 Projetos REAIS](https://www.youtube.com/watch?v=Rt-g2xVlGyI)
